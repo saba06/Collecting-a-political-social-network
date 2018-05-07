@@ -1,3 +1,12 @@
-# Collecting-a-political-social-network
-In this assignment, I've given you a list of Twitter accounts of 15 U.S. presedential candidates.<br />
-The goal is to use the Twitter API to construct a social network of these accounts. We will then use the [networkx](http://networkx.github.io/) library to plot these links, as well as print some statistics of the resulting graph.
+## Assignment 0
+
+**50 points**  
+
+
+1. Get started with git and python by following the instructions at [Setup.md](Setup.md).
+  
+2. Complete the data collection assignment, following the instructions in [a0.py](a0.py).
+
+3. Complete the short answer questions in [ShortAnswer.txt](ShortAnswer.txt).
+
+3. Push your all your code and supporting files (e.g., .png) to your **private** GitHub repo in the folder `a0/`.
