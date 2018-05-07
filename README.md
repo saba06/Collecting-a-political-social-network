@@ -1,10 +1,10 @@
-##CS579: Assignment 0<br />
+## CS579: Assignment 0<br />
 
-#Collecting a political social network<br />
+# Collecting a political social network<br />
 
 
 
-In this assignment, I've given you a list of Twitter accounts of 4<br />
+In this assignment, I've given you a list of Twitter accounts of 4
 
 U.S. presedential candidates.<br />
 
