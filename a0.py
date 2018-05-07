@@ -38,10 +38,10 @@ import time
 from TwitterAPI import TwitterAPI
 from collections import defaultdict
 
-consumer_key = 'YkW50XXRsPpdC8EcFATtWOjC0'
-consumer_secret = 'DX735dnKwS4n2TyVKOnv28RbgbOgggw6IIZklJvuwGZnB9Ny8I'
-access_token = '770665274353692672-EIzNEmo8AoMH8FGhUE16LMVlOEe49dz'
-access_token_secret = 'k7uFg6cMmrhidEvZ4yQnolsBdL9h3YLqvSHaxTyZcsc3q'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 # This method is done for you.
 def get_twitter():
